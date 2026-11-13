@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-ugmbdw on 2026-11-13T17:59:57Z
+# fly.toml app configuration file generated for rvg-8ia7ow on 2026-11-13T18:12:56Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-ugmbdw'
-primary_region = 'ams'
+app = 'rvg-8ia7ow'
+primary_region = 'fra'
 
 [build]
 [http_service]
